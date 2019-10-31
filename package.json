@@ -1,15 +1,11 @@
 {
   "name": "Knex01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "knex": "^0.13.0",
+    "knex": "^0.20.1",
     "mysql": "^2.13.0"
   }
 }
